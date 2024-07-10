@@ -1,0 +1,87 @@
+/* // <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 100 to 900 */
+
+.azeret-mono-normel {
+  font-family: "Azeret Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
+
+/* header-section start*/
+
+.header-bg-pic {
+  background-image: url("../B10A1-Challenge-Begins/assets/Hero-bg.png");
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+.header-image-pictuer {
+  margin-top: 30px;
+}
+
+.header-title {
+  color: rgb(13, 19, 33);
+  font-size: 48px;
+  font-weight: 800;
+  text-align: center;
+  width: 1300px;
+}
+.header-description {
+  color: rgb(13, 19, 33);
+  font-size: 15px;
+  font-weight: 400;
+  text-align: center;
+  line-height: 26px;
+  opacity: 0.7;
+}
+.header-btn {
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+  font-weight: 600;
+  text-align: center;
+  padding: 21px 24px 21px 24px;
+  border-radius: 8px;
+  background: rgb(13, 19, 33);
+  margin: 32px 0px;
+}
+/* header section end*/
+
+/* main section start  */
+
+.coding-section {
+  max-width: 1140px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 80px 97px 80px 97px;
+  background-color: rgba(13, 19, 33, 0.02);
+  margin-top: 50px;
+}
+.codeing-title {
+  color: rgb(13, 19, 33);
+  font-size: 32px;
+  font-weight: 800;
+  text-align: center;
+}
+.coding-description {
+  color: rgb(13, 19, 33);
+  font-size: 15px;
+  font-weight: 380;
+  text-align: center;
+  line-height: 26px;
+  opacity: 0.7;
+}
+/* .about-section-code {
+  border-radius: 16px;
+
+  background: linear-gradient(
+    90deg,
+    rgb(199, 19, 19),
+    rgba(255, 255, 255, 0) 100%);
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    
+ 
+    
+} */
