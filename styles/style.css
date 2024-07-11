@@ -98,6 +98,7 @@
   );
   display: flex;
   justify-content: space-between;
+  align-items: center;
   padding: 70px;
 }
 
@@ -147,14 +148,14 @@
   );
   display: flex;
   justify-content: space-between;
-  padding: 70px;
+  padding-left: 70px;
+
 }
 
 .card-menu-section-2 {
   display: flex;
   justify-content: space-around;
   flex-direction: column;
-  margin-top: 100px;
 }
 .card-2-title {
   color: rgba(13, 19, 33, 0.7);
